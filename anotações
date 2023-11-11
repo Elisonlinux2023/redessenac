@@ -1,0 +1,35 @@
+Anotação Realizada dia 11/11/2023
+Conceito de FLOPS float point operations per second.
+Significado: Operações de Pontos flutuantes por Segundo.
+
+TCP: Se define em Protocolo de controle de transporte.
+
+PAN> Personal area Network> Rede pessoal de alcane limitado, utiliza-se pelas redes móveis como celulares, PDas e dispositivos móveis e computadores de mesa.
+links de ordem de até 3Mbps por até 15 metros.
+
+LAN> Local area network> Rede de alcance maior que a PAN, podendo ser limitada a um ambiente, um predio inteiro, ou prédios vizinhos.
+A silgle deu origem ao nome Lan House, pois são computadores interligados que permitem a navegação na Internet.
+Permite-se neste tipo de conexão, jogos entre adversários de qualquer lugar do planeta.
+Podemos encontrar este tipo de conexão em Escolas, Universidades, residências.
+Games, tablets, celulares, impressoras, pois estes dispoditivos podem estar um em cada lugar da residência, ou empresa.
+Taxas de transmissão de 54Mbps, 100Mbps, e 1Gbps e distância de até 3KM lineares.
+
+MAN> Metropolitan Area Network> Interliga LANs espacialmente distribuídas, envolvendo bairros e cidades inteiras.
+Pode ser realizado a conexão de cidades vizinhas, utilizando a fibra ótica como meio de qualidade e chegada da conexão com mais
+fluidez e qualidade.
+Para sinais de televisão é utilizado os cabos coaxiais para deslocamento do sinal com mais rapidez e fluidez.
+
+WAN> Wide Area Network> Significado de amplo, vaste e extenso.
+Ela se define em rede macro, pois interliga todas as demais redes, formando uma grande infraestrutura de comunicação de dados ee xtensão planetária, assim como a INTERNET.
+
+
+Quando ocorre um problema, toda a rede é afetada e comprometida.
+
+Definição de:
+UNICAST> Um usuário
+MULTCAST> Grupo de usuários
+BROADCAST> Todos os usuários.
+A transmissão para vártios usuários se denomina> TRANSMISSÃO POR DIFUSÃO.
+
+Os fios trançados para um cabo RJ-45 é para ser realizado a redução de ruídos que afetam os fios metálicos de cobre, este ruido chama-se 'LINHA CRUZADA'.
+O entrelaçamento dos fios auxiliam para que quando um fio possui ruído, autimaticamente o outro o cancela.
